@@ -1,5 +1,5 @@
 - 👋 大家好，我是Coding时长两年半的Lawrence  
-- 👀 喜欢唱、不太会跳、Rap不太行、蓝球很菜（  
+- 👀 喜欢唱、不太会跳、Rap不太行、篮球很菜（  
 - 🌱 正在学习Python和C++  
 - 💞️ 目前我什么都想弄，只要是感兴趣的项目我都在尝试  
 - 📫 我的[Bilibili主页](https://space.bilibili.com/143784401)
